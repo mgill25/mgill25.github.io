@@ -1,3 +1,15 @@
-name: "Manish Gill's Blog"
-markdown: redcarpet
-pygments: true
+# Site settings
+title: Manish Gill
+email: contact@manishgill.com
+description: "Personal website of Manish Gill"
+baseurl: ""
+url: "http://manishgill.com"
+twitter_username: mgill25 
+github_username: mgill25 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+sass:
+    sass_dir: css
+    style: :compressed
