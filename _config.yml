@@ -11,5 +11,4 @@ github_username: mgill25
 markdown: kramdown
 permalink: pretty
 sass:
-    sass_dir: css
-    style: :compressed
+  sass_dir: /css/imports/
