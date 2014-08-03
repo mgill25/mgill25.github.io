@@ -11,6 +11,6 @@ mobile, and systems programming.
 For work, I use Python and Javascript as my primary tools, although I like to play around with 
 a multitude of other languages as well. I code in Vim and Sublime Text, with a dash of Emacs!
 
-You can find more about my work [here.](http://localhost:4000/code)
+You can find more about my work [here.](/code)
 
-I can be contacted [here.](http://localhost:4000/contact)
+I can be contacted [here.](/contact)
