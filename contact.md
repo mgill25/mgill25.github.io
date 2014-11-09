@@ -5,6 +5,7 @@ permalink: /contact/
 ---
 
 Quickest and easiest way to contact me is via email: *contact [at] manishgill [dot] com*.
+My secondary address is *mgill25 [at] outlook [dot] com*.
 
 I can also be found on the following sites:
 
