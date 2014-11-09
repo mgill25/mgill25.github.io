@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Quickest and easiest way to contact me is via email: *mgill25 [at] outlook [dot] com*.
+Quickest and easiest way to contact me is via email: *contact [at] manishgill [dot] com*.
 
 I can also be found on the following sites:
 
